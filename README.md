@@ -1,2 +1,2 @@
 # Panda Investimentos
- Repositório de uma página web sobre criptomoedas
+ Repositório de teste de uma página web sobre criptomoedas
